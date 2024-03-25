@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 👋 Hi, I am Sebastian  
-🌱 Now I am learning PostgreSQL  
+🌱 Now I am learning React Native  
 👀 I'm interested in Flutter, Node, Firebase and Database  
 📫 How to reach me, send a email  
 🤔 I’m looking for help with mobile development and software development.  
